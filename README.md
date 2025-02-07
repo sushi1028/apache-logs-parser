@@ -57,8 +57,13 @@ pip3 install -r scripts/requirements.txt
 ```
 
 ### **3. Run the Log Analyzer**
+You can parse your logs using below command 
 ```sh
-python log_parser.py <log_file>
+python3 log_parser.py <log_file>
+```
+
+Example:
+```sh
 python3 src/apache_logs_parser.py examples/example1.log # Example
 ```
 
