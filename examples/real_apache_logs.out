@@ -1,0 +1,19 @@
+--- Log File Analysis ---
+Total Requests: 9999
+Total Data Transmitted: 2.6 GiB
+Most Requested Resource: /favicon.ico
+Total Requests for /favicon.ico: 807
+Percentage of Requests for /favicon.ico: 8.0708070807
+Remote Host with the Most Requests: 66.249.73.135
+Total Requests from 66.249.73.135: 482
+Percentage of Requests from 66.249.73.135: 4.8204820482
+
+HTTP Status Code Distribution:
+Percentage of 100xx requests: 0.0000000000
+Percentage of 200xx requests: 91.7091709171
+Percentage of 300xx requests: 6.0906090609
+Percentage of 400xx requests: 2.1702170217
+Percentage of 500xx requests: 0.0300030003
+
+Skipped Lines: 1
+46.118.127.106 - - [20/May/2015:12:05:17 +0000] "GET /scripts/grok-py-test/configlib.py HTTP/1.1" 200 235 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html

@@ -1,0 +1,18 @@
+--- Log File Analysis ---
+Total Requests: 8
+Total Data transmitted: 36.7 MiB
+Most requested resource: /media//1.ts
+Total requests for /media//1.ts: 2
+Percentage of requests for /media//1.ts: 25.00
+Remote host with the most requests: example.com
+Total requests from example.com: 4
+Percentage of requests from example.com: 50.00
+
+HTTP Status Code Distribution:
+Percentage of 100xx requests: 25.00
+Percentage of 200xx requests: 12.50
+Percentage of 300xx requests: 25.00
+Percentage of 400xx requests: 25.00
+Percentage of 500xx requests: 12.50
+
+Skipped lines: 0
