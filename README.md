@@ -11,6 +11,18 @@ This project provides a tool to analyze Apache web server logs in the [Combined 
 
 The tool ensures that any malformed log entries are ignored, allowing for robust log analysis.
 
+## Prerequisites
+Before running the script, ensure you have the following installed on your system:
+
+- **Python 3.7+**: The script is compatible with Python 3.7 and above. You can check your Python version using:
+  ```sh
+  python3 --version
+  ```
+- **Pip**: Ensure `pip` is installed for managing dependencies:
+  ```sh
+  python3 -m ensurepip --default-pip
+  ```
+  
 ## Understanding the Assignment
 The goal of the assignment is to develop a script that can parse and analyze web server logs efficiently. It should handle errors gracefully, extract meaningful statistics, and provide insightful reports about traffic patterns.
 
